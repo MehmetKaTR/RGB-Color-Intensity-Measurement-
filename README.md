@@ -34,3 +34,5 @@ from custom_shape_editor import CustomShapeEditor
 
 ### Example usage:
 editor = CustomShapeEditor(video_source=0, radius=50, num_edges=8, center=(200, 200))
+![image](https://github.com/MehmetKaTR/RGB-Color-Intensity-Measurement-/assets/96664819/67be2414-e24c-4690-92f3-5eaee758235d)
+
