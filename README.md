@@ -1,7 +1,7 @@
-RGB Color Intensity Measurement using OpenCV
+### RGB Color Intensity Measurement using OpenCV
 This Python script utilizes OpenCV to measure the color intensity within a custom-defined shape overlaid on a live video feed.
 
-Features
+## Features
 Custom Shape Editing: Define a polygonal shape with adjustable parameters such as radius, number of edges, and center coordinates.
 Live Video Feed: Displays the real-time video feed with the custom shape overlaid.
 Interactive Editing: Allows dragging and moving of the shape vertices directly on the video feed.
